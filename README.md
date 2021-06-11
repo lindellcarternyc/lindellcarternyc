@@ -2,7 +2,7 @@
 
 <!--
 **lindellcarternyc/lindellcarternyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... An application that enables representatives of asylum seekers to track their cases and download important metrics!
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Email]:(lindellcarternyc@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
