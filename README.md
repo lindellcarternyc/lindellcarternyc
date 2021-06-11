@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... AWS / Docker
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... [Email]:(lindellcarternyc@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... He/Him/His
